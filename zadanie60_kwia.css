@@ -1,0 +1,29 @@
+div {
+    width: 612px;
+    background-color: green;
+    margin: 25px;
+    transition: all 0.1s;
+    border-radius: 5px;
+}
+
+div#blok1_berendt:hover {
+    background-color: orange;
+    font-size: 21mm;
+}
+
+div#blok2_berendt:hover {
+    background-color: light green;
+    font-size: 21mm;
+}
+
+div#blok3_berendt:hover {
+    background-color: gold;
+    font-size: 21mm;
+}
+
+
+/*
+   
+    hover; - jest selektorem który spełnia wartość jak nad danym elementem html znajduje się kursor myszy
+	Berendt
+*/
